@@ -1,5 +1,5 @@
 {
-    "name": "sebastiennoirie/php-image",
+    "name": "kus/php-image",
 	"description": "Wrapper for PHP's GD Library for easy image manipulation",
 	"keywords": ["php", "image", "text", "gd"],
 	"homepage": "http://blakek.us",
